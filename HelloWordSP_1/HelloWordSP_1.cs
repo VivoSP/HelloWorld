@@ -69,7 +69,6 @@ namespace HelloWordSP_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Hello World!");
-			engine.GenerateInformation("batatinha frita");
 		}
 	}
 }
